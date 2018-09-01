@@ -1,6 +1,6 @@
 ---
 title: "Back to School"
-date: 2019-01-01
+date: 2018-01-01
 ---
 
 On Jan 8th 2018, I will be returning to school after 5 years of being away (*read running away) from the conventional classroom along with the testing practices that come with it. 
